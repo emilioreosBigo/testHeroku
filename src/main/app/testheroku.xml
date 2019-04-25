@@ -13,4 +13,5 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 &quot;hello&quot;: &quot;world&quot;
 }" doc:name="Set Payload"/>
     </flow>
+
 </mule>
